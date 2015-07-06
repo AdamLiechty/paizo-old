@@ -1,0 +1,21 @@
+{
+  "name": "paizo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AdamLiechty/paizo",
+  "authors": [
+    "Adam Liechty <adam.liechty@gmail.com>"
+  ],
+  "keywords": [
+    "paizo",
+    "game",
+    "platform"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
